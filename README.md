@@ -1,2 +1,2 @@
 # sneakershooter
-Blog sur le vie autour du basket
+Blog wordpress sur le vie autour du basket et des sneakers
